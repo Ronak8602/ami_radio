@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "966370131357",
+    "project_id": "ami-radio",
+    "storage_bucket": "ami-radio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966370131357:android:e04dccb3d6e7a46f828374",
+        "android_client_info": {
+          "package_name": "com.example.ami_radio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966370131357-tqoq39f0ogqrea13dmp0h4m01md6f072.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ami_radio",
+            "certificate_hash": "b798351e58ed8004a805d1667a96adcc4b943a0a"
+          }
+        },
+        {
+          "client_id": "966370131357-vjotkoie11fi5lun642c9tgrt3jrejq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGDVERN4t_OLCN7gTCN_V0DUi5Ljow7Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966370131357-vjotkoie11fi5lun642c9tgrt3jrejq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
